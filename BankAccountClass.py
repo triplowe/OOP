@@ -36,5 +36,5 @@ class BankAccount:
 
 
 
-##    def __str__(self):
-##        return 'The balance is $' + format(self.__balance, ',.2f')
+    def __str__(self):
+        return 'The balance is $' + format(self.__balance, ',.2f')
